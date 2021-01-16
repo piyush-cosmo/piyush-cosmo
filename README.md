@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://github.com/piyush-cosmo">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=piyush-cosmo&show_icons=true&theme=dark&line_height=27" alt="Thakur's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=piyush-cosmo&show_icons=true&theme=dark&line_height=27" alt="Thakur's GitHub stats"/>
 </a>
 
 <div align="center">
